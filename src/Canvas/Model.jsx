@@ -25,7 +25,7 @@ export const Model = () => {
     }
     if (dispWidth <= 600) {
       // smartPhone
-      setScale(7);
+      setScale(9);
     }
   }, []);
 
